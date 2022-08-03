@@ -1,0 +1,11 @@
+{
+  "name": "Person Generator",
+  "version": "1.0.0",
+  "description": "generate fake person",
+  "manifest_version": 3,
+  "author": "Thomas Nishiduka",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Gerador de pessoas"
+  }
+}
